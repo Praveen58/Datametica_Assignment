@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Poddar
+Build-Jdk: 15.0.1
+Class-Path: lib/json-simple-1.1.1.jar lib/mysql-connector-java-8.0.23.ja
+ r lib/protobuf-java-3.11.4.jar lib/json-20080701.jar lib/json-path-0.9.
+ 1.jar lib/json-smart-1.2.jar lib/slf4j-api-1.7.5.jar
+Main-Class: com.trial.test.data_metica.ReadJson
+Created-By: Maven Integration for Eclipse
+
